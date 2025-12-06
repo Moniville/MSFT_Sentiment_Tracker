@@ -1,0 +1,14 @@
+# Python environment files
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Configuration and Secret Keys
+config.py
+*.key
+*.pem
+
+# Operating System files
+.DS_Store
+Thumbs.db
