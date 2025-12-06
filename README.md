@@ -49,14 +49,20 @@ For security, this file is not tracked by Git. You must create a new file named 
 
 # --- API Keys ---
 GEMINI_API_KEY = "YOUR_GEMINI_KEY"
+
 ALPHA_VANTAGE_KEY = "YOUR_ALPHA_VANTAGE_KEY"
+
 GNEWS_API_KEY = "YOUR_GNEWS_KEY"
 
 # --- Database Credentials ---
 DB_HOST = "localhost" # or your remote host IP/URL
+
 DB_NAME = "your_db_name"
+
 DB_USER = "your_db_user"
+
 DB_PASSWORD = "your_db_password"
+
 DB_PORT = "5432" 
 
 
