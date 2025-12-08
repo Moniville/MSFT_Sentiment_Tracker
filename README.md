@@ -16,14 +16,16 @@ Below is a screenshot of the PostgreSQL Database
 <img width="1366" height="671" alt="Screenshot 2025-12-05 190326" src="https://github.com/user-attachments/assets/1b907195-367b-4a19-8fd7-66ccd26286f5" />
 
 
+
+
 Below is a screenshot of the Extraction and Sentimentization
 <img width="1364" height="694" alt="Screenshot 2025-12-05 181415" src="https://github.com/user-attachments/assets/1ef61447-6199-4bd7-99ac-2dcbe3ad545b" />
 
 
+
+
 Below is a screen of the visual created via Streamlit
 <img width="1349" height="579" alt="Screenshot 2025-12-05 193429" src="https://github.com/user-attachments/assets/8b430366-a199-4b5a-b711-52b325ba70ff" />
-
-
 
 
 Prerequisites
